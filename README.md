@@ -23,7 +23,6 @@ Estudante de Sistemas de Informação </br>
   <img align="center" alt="nlp" src="https://img.shields.io/badge/NLP-FF5722?style=for-the-badge&logo=natural-language-processing&logoColor=white" />
   <img align="center" alt="dialogflow" src="https://img.shields.io/badge/Dialogflow-FFBE00?style=for-the-badge&logo=dialogflow&logoColor=white" />
   <img align="center" alt="spacy" src="https://img.shields.io/badge/spaCy-3A3A3A?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img align="center" alt="fastai" src="https://img.shields.io/badge/FastAI-0061F2?style=for-the-badge&logo=fastai&logoColor=white" />
   <img align="center" alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </div>
 </br>

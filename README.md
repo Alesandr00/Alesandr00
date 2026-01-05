@@ -1,6 +1,6 @@
 ### Olá! Eu sou Alesandro 👋
 Estudante de Sistemas de Informação </br>
-![Graduação concluída](https://img.shields.io/badge/___-%20Graduação_concluída_95.91%25-blue?style=flat&labelColor=red)
+![Graduação concluída](https://img.shields.io/badge/___-%20Graduação_concluída_100%25-blue?style=flat&labelColor=blue)
 </br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_alesandrosantoss/)

@@ -1,29 +1,48 @@
 ### Olá! Eu sou Alesandro 👋
-Estudante de Sistemas de Informação </br>
-![Graduação concluída](https://img.shields.io/badge/___-%20Graduação_concluída_100%25-blue?style=flat&labelColor=blue)
-</br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_alesandrosantoss/)
+**Programador Python | Bacharel em Sistemas de Informação**  
 
-![Alesandro GitHub stats](https://github-readme-stats.vercel.app/api?username=Alesandr0&show_icons=true&theme=dracula)
+Desenvolvedor com foco em **Python**, atuando no desenvolvimento de **sistemas e automação de processos**.  
+Possuo experiência prática em projetos reais, incluindo um **sistema em produção**, desenvolvido como **TCC** e utilizado em um escritório de contabilidade.
 
-## Tecnologias utilizadas diariamente
+🔗 LinkedIn: https://www.linkedin.com/in/alesandro-da-silva-santos-682586123/  
+
+---
+
+## 🧑‍💻 Experiência
+
+- **Analista de Sistemas | Python** — Escritório Contabil (2025)  
+  Desenvolvimento, manutenção e evolução de sistemas internos, com foco em automação de processos.
+
+- **Desenvolvedor Web (Estágio)** — ITATECHJR (2023 – 2024)  
+  Atuação no desenvolvimento de aplicações web, APIs, prototipação de interfaces e testes de software.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
 <div style="display: inline_block"><br/>
-  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img align="center" alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img align="center" alt="huggingface" src="https://img.shields.io/badge/Hugging_Face-7B4B94?style=for-the-badge&logo=HuggingFace&logoColor=white" />
-  <img align="center" alt="keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img align="center" alt="nlp" src="https://img.shields.io/badge/NLP-FF5722?style=for-the-badge&logo=natural-language-processing&logoColor=white" />
-  <img align="center" alt="dialogflow" src="https://img.shields.io/badge/Dialogflow-FFBE00?style=for-the-badge&logo=dialogflow&logoColor=white" />
-  <img align="center" alt="spacy" src="https://img.shields.io/badge/spaCy-3A3A3A?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img align="center" alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/php-EE4C2C?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" alt="api" src="https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img align="center" alt="tkinter" src="https://img.shields.io/badge/Tkinter-FFCA28?style=for-the-badge&logo=python&logoColor=black" />
+  <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
-</br>
+
+---
+
+## 🚀 Projetos em Destaque
+
+- **Sistema em Python (TCC)**  
+  Projeto em produção utilizado em escritório de contabilidade, com foco na automação de processos e organização das rotinas internas.
+
+- **Projeto Web – ITATECHJR**  
+  Aplicação desenvolvida durante o estágio, envolvendo criação de APIs, definição de fluxo da aplicação, prototipação de interfaces e testes de software.
+
+---
+
+## 📫 Contato
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_alesandrosantoss/)

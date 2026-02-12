@@ -11,7 +11,9 @@ Possuo experiência prática em projetos reais, incluindo um **sistema em produ�
 
 ## 🧑‍💻 Experiência
 
-- **Analista de Sistemas | Python** — Escritório Contabil (2025)  
+- **Analista de Sistemas de Computação | .Net** — SEFAZ (2026)  
+
+- **Analista de Sistemas | Python** — Escritório Contabil (2025 - 2026)  
   Desenvolvimento, manutenção e evolução de sistemas internos, com foco em automação de processos.
 
 - **Desenvolvedor Web (Estágio)** — ITATECHJR (2023 – 2024)  
